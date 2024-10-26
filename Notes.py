@@ -1,10 +1,10 @@
+
 '''
     Lesson: If statments
     Author: Mr. Kalisz
     Date Created: Oct 9, 2024
     Date Last Modified: Oct 9, 2024
 '''
-
 #if statement
 
 num = int(input("Input an integer: "))
